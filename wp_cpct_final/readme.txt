@@ -27,7 +27,8 @@ Install it and see your web site's interaction sky rocket!
 4. Open "Live Celebrity Popularity Comparison Chart Generator Widget" in sidebar and fill in the title, the first celebrity's name and the second celebrity's name.
 5. Save and close sidebar widget.
 == Changelog ==
-Nothing yet.
+11/22/2010 - Released Live Celebrity Popularity Comparison Chart Generator Widget version 1.0.1.
+
 
 == Frequently Asked Questions ==
 
