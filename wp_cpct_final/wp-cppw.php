@@ -2,15 +2,14 @@
 
 /*
 Plugin Name: Live Celebrity Popularity Comparison Trend Widget
-Version: 1.0
+Version: 1.0.1
 
 Description: Add fun and interest to your sidebar by installing this Celebrity popularity graph creator. You add 2 celebrities' names and a dynamically created graph compares the celebrities' popularity with live trend data from Google.The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
 
 Author: Director of Personal Money Store: David Johnston
 Author URI: http://wordpress.org/support/profile/personalmoneystore/
-Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/celebrity-popularity-widget/
+Plugin URI: http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgetslive-celebrity/
 
-*/
 
   /*
 

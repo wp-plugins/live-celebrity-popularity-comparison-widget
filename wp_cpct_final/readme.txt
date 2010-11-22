@@ -36,7 +36,7 @@ Can I make a suggestion for this plugin?
 Of course, please visit our Live Celebrity Popularity Comparison Chart Generator Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/celebrity-popularity-widget/ and leave a suggestion under, "Post a new comment."
 
 == Upgrade Notice ==
-Nothing yet.
+ 11/22/2010 We have changed some minor details such as the screenshoot image as well as the plugin URI.
 == Screenshots ==
 1. Screenshot of widget.
 
