@@ -9,7 +9,7 @@ Tags: compare celebrities, celebrity popularity trends, celebrity popularity gra
 
 Requires at least: 2.9.2
 Tested up to: 3.0.1
-Stable tag:  1.0
+Stable tag:  trunk
 A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 celebrities that admin inserted as default or that user selects
                                              
 == Description ==
