@@ -8,7 +8,7 @@ Donate link:  If you like this plugin and would like to donate, the best donatio
 Tags: compare celebrities, celebrity popularity trends, celebrity popularity graph, celebrity popularity chart, celebrity popularity checker, live celebrity check, celebrity, celebrity widget, celebrity widget, celebrity plugin, celebrity wordpress widget, celebrity wordpress widget, celebrity wordpress plugin, celebrity wordpress plugin, widget, plugin, wordpress widget, wordpress sidebar widget, wordpress plugin,Lady Gaga vs Britney Spears,
 
 Requires at least: 2.9.2
-Tested up to: 3.0.1
+Tested up to: 3.9.1
 Stable tag:  1.0
 A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 celebrities that admin inserted as default or that user selects
                                              
