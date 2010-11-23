@@ -40,7 +40,7 @@ Of course, please visit our Live Celebrity Popularity Comparison Chart Generator
  11/22/2010 We have changed some minor details such as the screenshoot image as well as the plugin URI.
 == Screenshots ==
 1. Screenshot of widget.
-http://magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-1.jpg
+http://www.magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-1.jpg
 == Credits ==
 
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
