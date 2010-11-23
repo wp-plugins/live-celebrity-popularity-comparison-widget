@@ -39,7 +39,6 @@ Of course, please visit our Live Celebrity Popularity Comparison Chart Generator
 == Upgrade Notice ==
  11/22/2010 We have changed some minor details such as the screenshoot image as well as the plugin URI.
 == Screenshots ==
-1. Screenshot of widget.
 http://www.magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-1.jpg
 == Credits ==
 
