@@ -9,7 +9,7 @@ Tags: compare celebrities, celebrity popularity trends, celebrity popularity gra
 
 Requires at least: 2.9.2
 Tested up to: 3.0.1
-Stable tag:  trunk
+Stable tag:  1.0
 A sidebar widget graph that dynamically updates providing the latest info on 1 or 2 celebrities that admin inserted as default or that user selects
                                              
 == Description ==
@@ -34,12 +34,12 @@ Install it and see your web site's interaction sky rocket!
 
 Can I make a suggestion for this plugin?
 
-Of course, please visit our Live Celebrity Popularity Comparison Chart Generator Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgets/celebrity-popularity-widget/ and leave a suggestion under, "Post a new comment."
+Of course, please visit our Live Celebrity Popularity Comparison Chart Generator Widget page http://personalmoneystore.com/moneyblog/financial-gadgets-and-widgetslive-celebrity/ and leave a suggestion under, "Post a new comment."
 
 == Upgrade Notice ==
  11/22/2010 We have changed some minor details such as the screenshoot image as well as the plugin URI.
 == Screenshots ==
-http://www.magadistudio.com/test/wp-content/uploads/2010/11/screenshoot-1.jpg
+1. Screenshot of Widget. It might look different depending on your theme.
 == Credits ==
 
 The image is compiled by Google and this gadget author has no control over what is displayed nor the accuracy of it.
