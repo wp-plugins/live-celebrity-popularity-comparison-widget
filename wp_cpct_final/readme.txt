@@ -1,6 +1,6 @@
 === Live Celebrity Popularity Comparison Chart Generator Widget ===
 
-Contributor: personalmoneystore, Director of Personal Money Store: David Johnston
+Contributors: personalmoneystore, Director of Personal Money Store: David Johnston
 
 
 Donate link:  If you like this plugin and would like to donate, the best donation we could ask for at this time is your positive comments! 
